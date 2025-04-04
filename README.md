@@ -65,7 +65,7 @@ Message received: "Hi there!"
    ```
 2. Clone this repository:
    ```sh
-   git clone <repo_url>
+   git clone https://github.com/RishinR/chat_app_cli.git
    cd chat_app_cli
    ```
 3. Run `cargo build` inside both `server` and `client` directories.
